@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "image": "https://cdn-icons-png.flaticon.com/512/1053/1053244.png",
+            "name": "Ariana Bethany Subroyen",
+            "subject": "Software Development",
+            "interested": "Traveling, Technology, Health & Fitness, Culinary Arts",
+            "experience": "None",
+            "motivation": "Seeking a role where I can build my software development skills, improve my IT knowledge, teamwork skills and work ethic",
+            "university": "Stellenbosch University",
+            "degree": "Bcom Information Systems Management and Honours in Informatics"
+        }
+    ]
+}
